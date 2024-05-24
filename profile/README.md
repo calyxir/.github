@@ -6,7 +6,7 @@
 - [Building a frontend with Calyx][frontend]
 - [Using Calyx with LLVM CIRCT][circt-use]
 
-If you're working with Calyx and need help, please [open an issue][issue] or [start a discussion][disc]!
+If you're working with Calyx and need help, please [join the Zulip chat][zulip] and say hi! You can also [open an issue][issue] or [start a discussion][disc]!
 
 ### FAQs
 
@@ -21,3 +21,4 @@ CIRCT is an umbrella project to build a variety of open-source programming tools
 [circt-use]: https://docs.calyxir.org/fud/circt.html
 [issue]: https://github.com/calyxir/calyx/issues
 [disc]: https://github.com/calyxir/calyx/discussions
+[zulip]: https://calyx.zulipchat.com/
