@@ -6,7 +6,7 @@
 - [Building a frontend with Calyx][frontend]
 - [Using Calyx with LLVM CIRCT][circt-use]
 
-If you're working with Calyx and need help, please [join the Zulip chat][zulip] and say hi! You can also [open an issue][issue] or [start a discussion][disc]!
+If you're working with Calyx and need help, please [join the Zulip chat][zulip] and say hi! You can also [open an issue][issue] or [start a discussion][disc]! Calyx is jointly maintained by the [Capra lab][capra] lab at Cornell and the [Flame lab][flame] at MIT. 
 
 ### FAQs
 
@@ -22,3 +22,5 @@ CIRCT is an umbrella project to build a variety of open-source programming tools
 [issue]: https://github.com/calyxir/calyx/issues
 [disc]: https://github.com/calyxir/calyx/discussions
 [zulip]: https://calyx.zulipchat.com/
+[capra]: https://capra.cs.cornell.edu/
+[flame]: https://flame.csail.mit.edu/
