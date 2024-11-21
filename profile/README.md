@@ -18,7 +18,7 @@ CIRCT is an umbrella project to build a variety of open-source programming tools
 [docs]: https://docs.calyxir.org/
 [frontend]: https://docs.calyxir.org/builder/calyx-py.html
 [calyx]: https://calyxir.org
-[circt-use]: https://docs.calyxir.org/fud/circt.html
+[circt-use]: https://docs.calyxir.org/running-calyx/fud/circt.html
 [issue]: https://github.com/calyxir/calyx/issues
 [disc]: https://github.com/calyxir/calyx/discussions
 [zulip]: https://calyx.zulipchat.com/
